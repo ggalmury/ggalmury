@@ -26,9 +26,10 @@
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggalmury)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggalmury&layout=compact)](https://github.com/delay-100/github-readme-stats)
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggalmury)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ggalmury/ggalmury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
