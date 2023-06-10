@@ -18,8 +18,9 @@
 <br/>
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
-
+<br/>
+![Amazon EC2](https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggalmury)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ggalmury/ggalmury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
