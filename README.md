@@ -1,8 +1,6 @@
 ### Hi there 👋
 <h2> 🛠 Tech Stack 🛠 </h2>
 
-<h4> Languages </h4>
-
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-5CC8B2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
@@ -11,9 +9,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
-
-<h4> Frameworks & Libraries </h4>
-
+<br/>
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React--Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
