@@ -19,8 +19,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <br/>
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900.svg?&style=for-the-badge&logo=Amazon_EC2&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF.svg?&style=for-the-badge&logo=Amazon_RDS&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?&style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggalmury)](https://github.com/anuraghazra/github-readme-stats)
 <!--
