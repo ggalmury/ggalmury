@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> 🛠 Tech Stack 🛠 </h2>
+<h2> 🛠 Tech Stack</h2>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
@@ -25,11 +25,11 @@
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
 
-<h2> 🏅 Top Languages 🏅 </h2>
+<h2> 🏅 Top Languages</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggalmury&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
-<h2>  📊 Stats 📊 </h2>
+<h2> 📌 Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggalmury)](https://github.com/anuraghazra/github-readme-stats)
 
