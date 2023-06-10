@@ -1,6 +1,5 @@
 ### Hi there 👋
 <h2> 🛠 Tech Stack 🛠 </h2>
-<br/>
 <h4> Languages </h4>
 <br/>
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
