@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
-<p align="center">
+
  ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
-</p>
+
 
 
 
