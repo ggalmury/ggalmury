@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h2> 🛠 Tech Stack 🛠 </h2>
 
+<h4> frequently used </h4>
+
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-5CC8B2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
